@@ -3,20 +3,6 @@
 		"repoName": "CountJail's Repo",
 		"repoIcon": "https://cdn-icons-png.flaticon.com/512/2322/2322999.png"
 	},
-	"Tweaked": [{
-		"name": "uYou+",
-		"version": "18.14.1",
-		"down": "https://github.com/qnblackcat/uYouPlus/releases/download/v18.14.1-3.0/uYouPlus_18.14.1_3.0.ipa",
-		"category": "Tweaked Apps",
-		"description": "True ad-less YouTube...",
-		"bundleID": "com.google.ios.youtube",
-		"appstore": "com.google.ios.youtube",
-		"enableBackup": true,
-		"contact": {
-			"web": "https://repo.twickd.com",
-			"twitter": "https://twitter.com/twickdrepo"
-		}
-	}],
 	"Jailbreaks": [{
         "name": "Taurine",
         "version": "1.1.6",
@@ -76,10 +62,25 @@
 		"name": "GDPS Editor 2.2",
 		"version": "2.21.3",
 		"icon": "https://imag.malavida.com/mvimgbig/download-fs/gdps-editor-35447-0.jpg",
-		"down": "https://fs03n3.sendspace.com/dl/2dd79a5bc4ddad8a1a868f2850116869/6452426b7ea0a690/km7shw/gdps.ipa",
+		"down": "http://nightnetwork.6te.net/files/gdps.ipa",
 		"category": "Games",
 		"description": "This is example of 2.2 Geometry Dash or Private Server!",
 		"bundleID": "com.robtop.geometrydashsubzero",
 		"enableBackup": true
+	},
+    {
+		"name": "Minecraft",
+		"version": "1.19.81",
+		"icon": "https://ipalibrary.me/wp-content/uploads/2022/08/Minecraft.png",
+		"down": "https://dl1.topfiles.net/files/3/343/72205/ZGVsc3NvSgJxSHZKdDk3RGNYbmpieHV0NWh2aG8wakVmSGt6cHkrZHFvd2RxMD06OmhSGKyscUHw8x1OuOmYP4M/minecraft-3_1.19.81.ipa",
+		"category": "Games",
+		"description": "This is minecraft with version 1.19.81",
+		"bundleID": "com.minecrafttwo.microsoft",
+		"enableBackup": true,
+        "screenshots":[
+            "67ed1368697d553945d61ee52efd38e7.jpg",
+            "https://wallpapershome.ru/images/pages/pic_v/13972.jpg",
+            "https://wallpapershome.ru/images/pages/pic_v/13966.jpg"
+        ]
 	}]
 }
