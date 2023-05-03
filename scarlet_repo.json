@@ -76,13 +76,10 @@
 		"name": "GDPS Editor 2.2",
 		"version": "2.21.3",
 		"icon": "https://imag.malavida.com/mvimgbig/download-fs/gdps-editor-35447-0.jpg",
-		"down": "http://nightnetwork.6te.net/files/gdps.ipa",
+		"down": "https://fs03n3.sendspace.com/dl/2dd79a5bc4ddad8a1a868f2850116869/6452426b7ea0a690/km7shw/gdps.ipa",
 		"category": "Games",
 		"description": "This is example of 2.2 Geometry Dash or Private Server!",
 		"bundleID": "com.robtop.geometrydashsubzero",
-		"enableBackup": true,
-        "screenshots": [
-            "https://androidprog.com/wp-content/uploads/2021/09/gdpseditor-1.webp"
-        ]
+		"enableBackup": true
 	}]
 }
