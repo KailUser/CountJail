@@ -1,0 +1,23 @@
+*{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+body{
+    background-color: black;
+    color: white;
+    text-decoration: none;
+    text-align: center;
+}
+body a {
+    text-decoration: none;
+    color: rgb(155, 155, 155);
+}
+body a:hover {
+    text-decoration: line-through ;
+    color: rgb(203, 203, 203);
+}
+.guide{
+    padding-top: 50px;
+}
+.main-text{
+    padding-top: 40px;
+}
