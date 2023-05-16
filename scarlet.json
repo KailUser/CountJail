@@ -97,21 +97,6 @@
             "https://static.rustore.ru/4416d066-66ef-4053-8650-9d70bb26ed64",
             "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/3a/c9/c9/3ac9c952-4e19-673e-315e-765a362b780d/af1566de-df58-4420-a219-128c4e0432ef_1242_U04252208-02.png/750x750bb.jpeg"
         ]
-	},
-    {
-		"name": "Sber   Bank",
-		"version": "12.14.1",
-		"icon": "https://alfabank.servicecdn.ru/media/footer-alfa-logo_1025x1025_common_19-01-2021.svg",
-		"down": "https://wdfiles.ru/ffae95e?pt=zDbmlxJyKKJN6x6I7g7Ks2hPezZMud1DDMtPmjVIHh4%3D",
-		"category": "Russian Banks",
-		"description": "For Russain. Description: Альфа-банк — крупнейший частный банк в России, занимающий четвёртое место по размеру активов",
-		"bundleID": "com.alfa.alfabank",
-		"enableBackup": true,
-        "screenshots":[
-            "https://is5-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/a8/dc/aa/a8dcaa8f-c8a1-fa92-0ac2-261305f59731/1877a6b1-91f0-4108-9d61-0cedbb8d96a2_1242_U04252208-03.png/750x750bb.jpeg",
-            "https://static.rustore.ru/4416d066-66ef-4053-8650-9d70bb26ed64",
-            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/3a/c9/c9/3ac9c952-4e19-673e-315e-765a362b780d/af1566de-df58-4420-a219-128c4e0432ef_1242_U04252208-02.png/750x750bb.jpeg"
-        ]
 	}
 
     ]
