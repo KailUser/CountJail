@@ -1,0 +1,118 @@
+{
+	"META": {
+		"repoName": "CountJail's Repo",
+		"repoIcon": "https://cdn-icons-png.flaticon.com/512/2322/2322999.png"
+	},
+	"Jailbreaks": [{
+        "name": "Taurine",
+        "version": "1.1.6",
+        "icon": "https://cdn.discordapp.com/attachments/752890955236901055/829728600446074930/Taurine.png",
+        "down": "https://github.com/Odyssey-Team/Taurine/releases/download/1.1.6/Taurine-1.1.6.ipa",
+        "dev": "Odyssey-Team",
+        "category": "Jailbreaks",
+        "description": "Time to get amped.",
+        "bundleID": "com.odysseyteam.taurine",
+        "screenshots": [
+            "https://taurine.app/assets/images/iphones.png",
+            "https://taurine.app/assets/images/iphone.png"
+        ],
+        "contact": [
+            "https://taurine.app/",
+            "https://twitter.com/OdysseyTeam_"
+        ]
+    },
+    {
+        "name": "Odyssey",
+        "version": "1.4.2",
+        "icon": "https://theodyssey.dev/assets/images/icon.png",
+        "down": "https://github.com/Odyssey-Team/Odyssey/releases/download/v1.4.2/Odyssey-1.4.2.ipa",
+        "dev": "Odyssey-Team",
+        "category": "Jailbreaks",
+        "bundleID": "org.coolstar.odyssey",
+        "description": "A new jailbreak for a new era.",
+        "screenshots": [
+            "https://theodyssey.dev/assets/images/iphones.png",
+            "https://theodyssey.dev/assets/images/iphone.png"
+        ],
+        "contact": [
+            "https://theodyssey.dev/",
+            "https://twitter.com/OdysseyTeam_"
+        ]
+    },
+    {
+        "name": "unc0ver",
+        "version": "8.0.2",
+        "icon": "https://cdn.discordapp.com/attachments/752890955236901055/829731825802018896/unc0ver.png",
+        "down": "https://unc0ver.dev/downloads/8.0.2/9e44edfbfd1905cadf23c3b9ad1d5bed683ce061/unc0ver_Release_8.0.2.ipa",
+        "dev": "unc0ver-Team",
+        "category": "Jailbreaks",
+        "bundleID": "science.xnu.undecimus",
+        "screenshots": [
+            "https://usescarlet.com/Repo/unc0verpg1.png",
+            "https://usescarlet.com/Repo/unc0verpg2.png",
+            "https://usescarlet.com/Repo/unc0verpg3.png"
+        ],
+        "contact": [
+            "https://unc0ver.dev/",
+            "https://twitter.com/pwn20wnd"
+        ]
+    }
+],
+	"Games": [{
+		"name": "GDPS Editor 2.2",
+		"version": "2.21.3",
+		"icon": "https://imag.malavida.com/mvimgbig/download-fs/gdps-editor-35447-0.jpg",
+		"down": "http://nightnetwork.6te.net/files/gdps.ipa",
+		"category": "Games",
+		"description": "This is example of 2.2 Geometry Dash or Private Server!",
+		"bundleID": "com.robtop.geometrydashsubzero",
+		"enableBackup": true
+	},
+    {
+		"name": "Minecraft",
+		"version": "1.19.81",
+		"icon": "https://ipalibrary.me/wp-content/uploads/2022/08/Minecraft.png",
+		"down": "https://dl1.topfiles.net/files/3/343/72205/ZGVsc3NvSgJxSHZKdDk3RGNYbmpieHV0NWh2aG8wakVmSGt6cHkrZHFvd2RxMD06OmhSGKyscUHw8x1OuOmYP4M/minecraft-3_1.19.81.ipa",
+		"category": "Games",
+		"description": "This is minecraft with version 1.19.81",
+		"bundleID": "com.minecrafttwo.microsoft",
+		"enableBackup": true,
+        "screenshots":[
+            "67ed1368697d553945d61ee52efd38e7.jpg",
+            "https://wallpapershome.ru/images/pages/pic_v/13972.jpg",
+            "https://wallpapershome.ru/images/pages/pic_v/13966.jpg"
+        ]
+	}],
+    "Russian Banks": [{
+		"name": "Alfa Bank",
+		"version": "12.14.1",
+		"icon": "https://alfabank.servicecdn.ru/media/footer-alfa-logo_1025x1025_common_19-01-2021.svg",
+		"down": "https://wdfiles.ru/ffae95e?pt=zDbmlxJyKKJN6x6I7g7Ks2hPezZMud1DDMtPmjVIHh4%3D",
+		"category": "Russian Banks",
+		"description": "For Russain. Description: Альфа-банк — крупнейший частный банк в России, занимающий четвёртое место по размеру активов",
+		"bundleID": "com.alfa.alfabank",
+		"enableBackup": true,
+        "screenshots":[
+            "https://is5-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/a8/dc/aa/a8dcaa8f-c8a1-fa92-0ac2-261305f59731/1877a6b1-91f0-4108-9d61-0cedbb8d96a2_1242_U04252208-03.png/750x750bb.jpeg",
+            "https://static.rustore.ru/4416d066-66ef-4053-8650-9d70bb26ed64",
+            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/3a/c9/c9/3ac9c952-4e19-673e-315e-765a362b780d/af1566de-df58-4420-a219-128c4e0432ef_1242_U04252208-02.png/750x750bb.jpeg"
+        ]
+	},
+    {
+		"name": "Sber   Bank",
+		"version": "12.14.1",
+		"icon": "https://alfabank.servicecdn.ru/media/footer-alfa-logo_1025x1025_common_19-01-2021.svg",
+		"down": "https://wdfiles.ru/ffae95e?pt=zDbmlxJyKKJN6x6I7g7Ks2hPezZMud1DDMtPmjVIHh4%3D",
+		"category": "Russian Banks",
+		"description": "For Russain. Description: Альфа-банк — крупнейший частный банк в России, занимающий четвёртое место по размеру активов",
+		"bundleID": "com.alfa.alfabank",
+		"enableBackup": true,
+        "screenshots":[
+            "https://is5-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/a8/dc/aa/a8dcaa8f-c8a1-fa92-0ac2-261305f59731/1877a6b1-91f0-4108-9d61-0cedbb8d96a2_1242_U04252208-03.png/750x750bb.jpeg",
+            "https://static.rustore.ru/4416d066-66ef-4053-8650-9d70bb26ed64",
+            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/3a/c9/c9/3ac9c952-4e19-673e-315e-765a362b780d/af1566de-df58-4420-a219-128c4e0432ef_1242_U04252208-02.png/750x750bb.jpeg"
+        ]
+	}
+
+    ]
+}
